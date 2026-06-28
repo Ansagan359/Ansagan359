@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" fill="none" role="img" aria-label="Ansagan — Full-Stack Developer">
+  <defs>
+    <radialGradient id="glow" cx="32%" cy="48%" r="55%">
+      <stop offset="0%" stop-color="#6e56f7" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#6e56f7" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0a0a0b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6e56f7"/>
+      <stop offset="100%" stop-color="#6e56f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1280" height="360" fill="#0a0a0b"/>
+  <rect width="1280" height="360" fill="url(#glow)"/>
+
+  <!-- right-side orbit motif -->
+  <g stroke="#ece8e1" stroke-opacity="0.06" fill="none">
+    <circle cx="1080" cy="180" r="60"/>
+    <circle cx="1080" cy="180" r="120"/>
+    <circle cx="1080" cy="180" r="180"/>
+    <circle cx="1080" cy="180" r="240"/>
+  </g>
+  <circle cx="1080" cy="60" r="5" fill="#6e56f7"/>
+  <circle cx="1140" cy="300" r="4" fill="#ece8e1" fill-opacity="0.5"/>
+  <circle cx="900" cy="180" r="6" fill="#6e56f7"/>
+
+  <!-- mark -->
+  <g transform="translate(80 70)">
+    <rect x="-12" y="-12" width="24" height="24" transform="rotate(45)" fill="none" stroke="#ece8e1" stroke-width="1.5"/>
+    <circle r="3.5" fill="#6e56f7"/>
+  </g>
+  <text x="116" y="78" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3" fill="#6f6c65">ANSAGAN359 · SOFTWARE</text>
+
+  <!-- name -->
+  <text x="78" y="205" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700" letter-spacing="2" fill="#ece8e1">ANSAGAN</text>
+
+  <!-- accent line -->
+  <rect x="82" y="232" width="360" height="2" fill="url(#accent)"/>
+
+  <!-- subtitle -->
+  <text x="82" y="270" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="2" fill="#6e56f7">FULL-STACK DEVELOPER</text>
+
+  <!-- tags -->
+  <text x="82" y="305" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" fill="#6f6c65">TELEGRAM &amp; DISCORD BOTS &#160;·&#160; WEB APPS &#160;·&#160; AUTOMATION &#160;·&#160; AI</text>
+</svg>
