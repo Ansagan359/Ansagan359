@@ -58,11 +58,9 @@ I build reliable, well-crafted software end to end — from Telegram &amp; Disco
 | --- | --- | --- |
 | **Telegram Shop Bot** | Storefront bot: catalog, cart, order flow — aiogram 3, Docker. | [Code](https://github.com/Ansagan359/telegram-shop-bot) |
 | **Telegram Support Bot** | FAQ answers + ticket hand-off to a human via /reply. | [Code](https://github.com/Ansagan359/telegram-support-bot) |
-| **Telegram Bot Starter** | Production-ready aiogram 3 boilerplate to build bots fast. | [Code](https://github.com/Ansagan359/telegram-bot-starter) |
 | **Price Monitor** | Tracks competitor prices, alerts changes to Telegram — stdlib only. | [Code](https://github.com/Ansagan359/price-monitor) |
 | **Daily Report Bot** | Turns a sales CSV into a daily Telegram summary on a schedule. | [Code](https://github.com/Ansagan359/daily-report-bot) |
 | **Folder Backup** | Timestamped zip backups with rotation — one file, stdlib only. | [Code](https://github.com/Ansagan359/folder-backup) |
-| **Smart File Organizer** | Zero-dependency CLI that sorts folders, with dry-run &amp; undo. | [Code](https://github.com/Ansagan359/smart-file-organizer) |
 
 ### Small tools, live in the browser
 
@@ -70,7 +68,6 @@ I build reliable, well-crafted software end to end — from Telegram &amp; Disco
 | --- | --- | --- |
 | [JSONeye](https://ansagan359.github.io/json-visualizer/) — JSON tree visualizer | [Squeezr](https://ansagan359.github.io/image-compressor/) — private image compressor | [Kursi](https://ansagan359.github.io/currency-converter/) — currency converter |
 | [Notedown](https://ansagan359.github.io/markdown-notes/) — markdown notes | [TextKit](https://ansagan359.github.io/text-toolkit/) — text toolkit | [Pomodoro](https://ansagan359.github.io/pomodoro-timer/) — focus timer |
-| [Password Generator](https://ansagan359.github.io/password-generator/) — Web Crypto | [Weather Dashboard](https://ansagan359.github.io/weather-dashboard/) — 7-day forecast | [URL Shortener](https://github.com/Ansagan359/url-shortener) — Node/Express |
 
 <br/>
 
