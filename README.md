@@ -41,16 +41,24 @@ I build reliable, well-crafted software end to end — from Telegram &amp; Disco
 
 <br/>
 
-### Selected work
+### Featured projects
 
-| Project | Description |
-| --- | --- |
-| **[Telegram Bot Starter](https://github.com/Ansagan359/telegram-bot-starter)** | Production-ready boilerplate for building Telegram bots fast. |
-| **[Smart File Organizer](https://github.com/Ansagan359/smart-file-organizer)** | CLI tool that automatically sorts messy folders by rules. |
-| **[Password Generator](https://github.com/Ansagan359/password-generator)** | Secure, configurable password generator with strength checks. |
-| **[Weather Dashboard](https://github.com/Ansagan359/weather-dashboard)** | Clean weather dashboard with a live forecast API. |
-| **[URL Shortener](https://github.com/Ansagan359/url-shortener)** | Minimal, fast URL shortener with redirects and stats. |
-| **[Discord Bot Starter](https://github.com/Ansagan359/discord-bot-starter)** | Scalable boilerplate for Discord bots with slash commands. |
+| Project | What it is | Links |
+| --- | --- | --- |
+| **TaskFlow** | A calm kanban board with drag &amp; drop — vanilla JS, offline-first, zero dependencies. | [Live demo](https://ansagan359.github.io/taskflow-board/) · [Code](https://github.com/Ansagan359/taskflow-board) |
+| **MiniCRM** | A lightweight client tracker: deal pipeline, live search and totals — in the browser. | [Live demo](https://ansagan359.github.io/mini-crm/) · [Code](https://github.com/Ansagan359/mini-crm) |
+| **Telegram Shop Bot** | A storefront bot with catalog, cart and order flow — aiogram 3, Docker-ready. | [Code](https://github.com/Ansagan359/telegram-shop-bot) |
+
+### More work
+
+| Project | Description | |
+| --- | --- | --- |
+| **Password Generator** | Secure, privacy-first generator on the Web Crypto API. | [Demo](https://ansagan359.github.io/password-generator/) · [Code](https://github.com/Ansagan359/password-generator) |
+| **Weather Dashboard** | Clean 7-day forecast, powered by Open-Meteo — no API key. | [Demo](https://ansagan359.github.io/weather-dashboard/) · [Code](https://github.com/Ansagan359/weather-dashboard) |
+| **URL Shortener** | Minimal, fast URL shortener with redirects and click stats. | [Code](https://github.com/Ansagan359/url-shortener) |
+| **Telegram Bot Starter** | Production-ready aiogram 3 boilerplate to build bots fast. | [Code](https://github.com/Ansagan359/telegram-bot-starter) |
+| **Smart File Organizer** | Zero-dependency CLI that sorts folders, with dry-run &amp; undo. | [Code](https://github.com/Ansagan359/smart-file-organizer) |
+| **Daily Report Bot** | Turns a sales CSV into a daily Telegram summary on a schedule. | [Code](https://github.com/Ansagan359/daily-report-bot) |
 
 <br/>
 
